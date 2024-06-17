@@ -1,9 +1,9 @@
 {
-  "title": "Tutorial Nextstrain build for HP virus",
+  "title": "Tutorial Nextstrain build for HPAI virus",
   "maintainers": [
     {"name": "Tanin Rajamand"}
   ],
-  "build_url": "https://github.com/taneenak/HP",
+  "build_url": "https://github.com/taneenak/HPAI",
   "colorings": [
     {
       "key": "gt",
