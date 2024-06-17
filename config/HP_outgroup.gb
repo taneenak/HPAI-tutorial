@@ -1,10 +1,10 @@
-LOCUS       HPAI_outgroup              1703 bp    RNA     linear   VRL 26-MAR-2015
-DEFINITION  HPAI virus isolate.
-ACCESSION   HPAI000001
-VERSION     HPAI000001.1
+LOCUS       HP_outgroup              1703 bp    RNA     linear   VRL 26-MAR-2015
+DEFINITION  HP virus isolate.
+ACCESSION   HP000001
+VERSION     HP000001.1
 KEYWORDS    .
-SOURCE      HPAI virus
-  ORGANISM  HPAI virus
+SOURCE      HP virus
+  ORGANISM  HP virus
             Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Flaviviridae; Flavivirus.
 REFERENCE   1  (bases 1 to 1703)
   AUTHORS   .
@@ -12,7 +12,7 @@ REFERENCE   1  (bases 1 to 1703)
   JOURNAL   Submitted (26-JUN-2024) tr44022@uga.edu
 FEATURES             Location/Qualifiers
      source          1..1703
-                     /organism="HPAI virus"
+                     /organism="HP virus"
                      /mol_type="genomic RNA"
 ORIGIN
         1 atggagaaaat agtgcttctt cttgcaatat gtagccttgt taaaggtgat cagatttgca
