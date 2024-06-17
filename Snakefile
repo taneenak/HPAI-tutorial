@@ -1,11 +1,11 @@
 rule all:
     input:
-        auspice_json = "auspice/HP.json",
+        auspice_json = "auspice/HPAI.json",
 
 input_fasta = "data/sequences.fasta",
 input_metadata = "data/metadata.tsv",
 dropped_strains = "config/dropped_strains.txt",
-reference = "config/HP_outgroup.gb",
+reference = "config/HPAI_outgroup.gb",
 colors = "config/colors.tsv",
 lat_longs = "config/lat_longs.tsv",
 auspice_config = "config/auspice_config.json"
