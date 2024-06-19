@@ -1,0 +1,13 @@
+species	OtherBird	#FF0000
+species	WildBird	#FFDB00
+species	WildMammal	#49FF00
+species	Human	#00FF92
+species	LivestockAvian	#0092FF
+species	Pet	#4900FF
+species	LivestockMammal	#FF00DB
+continent	Asia	#FF0000
+continent	Europe	#FFFF00
+continent	NorthAmerica	#00FF00
+continent	Africa	#00FFFF
+continent	SouthAmerica	#0000FF
+continent	Antarctica	#FF00FF

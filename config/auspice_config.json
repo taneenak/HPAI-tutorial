@@ -1,0 +1,40 @@
+{
+  "title": "Tutorial Nextstrain build for HPAI virus",
+  "maintainers": [
+    {"name": "Tanin Rajamand"}
+  ],
+  "build_url": "https://github.com/taneenak/HPAI",
+  "colorings": [
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "continent",
+      "title": "Continent",
+      "type": "categorical"
+    },
+    {
+      "key": "species",
+      "title": "Species",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "continent"
+  ],
+  "panels": [
+     "tree",
+     "map",
+     "entropy"
+  ],
+  "display_defaults": {
+    "map_triplicate": true
+  },
+  "filters": [
+    "continent",
+    "species",
+    "date"
+  ]
+}
